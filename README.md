@@ -1,2 +1,2 @@
 # CepApiFlutter
-Aplicativo desenvolvido no minicurso de flutter do SEEAC ministrado pelo Sávio.
+Application developed in the SEEAC flutter mini course taught by Sávio.
