@@ -1,0 +1,4 @@
+#Tue Aug 20 20:19:37 BRT 2019
+base.0=C\:\\Users\\Aluno\\Desktop\\flu_test\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
